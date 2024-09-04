@@ -1,0 +1,3 @@
+Fun fact, I am completely lost doing this. I do not know what I put myself into. 
+(_You can use the command line: 'touch nameOfTheFile.txt'_)
+
